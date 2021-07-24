@@ -11,7 +11,8 @@ Below is a list of our line of producta & services we will be adding to this new
 - MagicWandBand: Flexible wrist band
 - BlueBox: Metal outdoor storage container for local pickup
 - Filament Cabinet: Material storage and battery back-up system
-- Matter: Filament & Exotic building Materials
+- Matter™: Filament & Exotic building Materials
+- Aroma™: Scented Filament
 
 
 # Services Line
