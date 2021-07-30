@@ -17,9 +17,13 @@ Below is a list of our line of producta & services we will be adding to this new
 
 # Services Line
 ---
-- Eden3D Network: Web-based application to coordinate users, designers & 3d printers together to build products in distributed manner. All comphensated in Satoshi's. 
+- Eden3D Network: https://github.com/Eden3DP/Eden3D-Network
+Web-based application to coordinate users, designers & 3d printers together to build products in distributed manner. All comphensated in Satoshi's. 
+
 - Eden3D Mobile: Mobile application to connect to devices (listed above), create designs & manage prints. iOS, Android, F-Droid & PurismOS. 
+
 - Eden3D Desktop: Desktop application utilizing slicer and Bitcoin full node. Connect to Eden3D Network with desktop application
+
 - 
 
 
