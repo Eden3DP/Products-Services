@@ -13,7 +13,7 @@ Below is a list of our line of producta & services we will be adding to this new
 - Filament Cabinet: Material storage and battery back-up system
 - Matter™: Filament & Exotic building Materials
 - Aroma™: Scented Filament
-- 
+- FreeForm: Large display-only Hologram desktop
 
 # Services Line
 ---
